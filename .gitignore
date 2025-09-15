@@ -1,0 +1,7 @@
+node_modules
+dist
+<<<<<<< HEAD
+=======
+build
+.env
+>>>>>>> b74f51faf0e25d3755a20e08cfe5f189aee62805
